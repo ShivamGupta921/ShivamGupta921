@@ -31,7 +31,7 @@
 
 
 # 📊 Leetcode Stats:
-[![Leetcode Stats](https://leetcard.jacoblin.cool/anonymous921?ext=heatmap)](https://leetcode.com/anonymous921)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/ShivamGupta921?ext=heatmap)](https://leetcode.com/ShivamGupta921)
 
 # 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=ShivamGupta921&theme=hacker&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://github.com/ShivamGupta921) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamGupta921&layout=compact&theme=vision-friendly-dark)](https://github.com/ShivamGupta921)
